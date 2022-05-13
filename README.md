@@ -4,6 +4,7 @@ Bootsector game where you go pewpew on spaceships and have to also dodge shots
 Controls are
 
 W and A -> move up and down
+
 K -> shoot
 
 # Building
